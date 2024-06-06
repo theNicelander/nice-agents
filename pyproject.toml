@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.12"
 openai = "^1.31.1"
 python-dotenv = "^1.0.1"
+azure-identity = "^1.16.0"
+langchain-openai = "^0.1.8"
+langchain = "^0.2.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"
